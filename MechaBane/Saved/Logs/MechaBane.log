@@ -929,3 +929,805 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.29-03.36.56:743][  0]LogAssetRegistry: Asset discovery search completed in 5.0229 seconds
 [2020.10.29-03.36.56:746][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2020.10.29-03.36.56:825][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.29-03.39.04:024][399]LogSlate: Window 'Save Level As' being destroyed
+[2020.10.29-03.39.04:058][399]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.29-03.39.04:116][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.29-03.39.04:126][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.29-03.39.04:138][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.29-03.39.04:153][399]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Saved/Level15F77460E4871CE685FF280BD3E83E0CC.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/Maps/Level1.umap'
+[2020.10.29-03.39.04:167][399]LogFileHelpers: Saving map 'Level1' took 0.136
+[2020.10.29-03.39.04:167][399]Cmd: MAP LOAD FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.29-03.39.04:227][399]LightingResults: New page: Lighting Build
+[2020.10.29-03.39.04:227][399]LoadErrors: New page: Loading map: Level1.umap
+[2020.10.29-03.39.04:228][399]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-03.39.04:229][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.39.04:229][399]MapCheck: New page: Map Check
+[2020.10.29-03.39.04:229][399]LightingResults: New page: Lighting Build
+[2020.10.29-03.39.04:238][399]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020612314800), frame # 2399
+[2020.10.29-03.39.04:238][399]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020611BA1580), frame # 2399
+[2020.10.29-03.39.04:238][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.10.29-03.39.04:293][399]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.29-03.39.04:293][399]LogAIModule: Creating AISystem for world Level1
+[2020.10.29-03.39.04:293][399]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000206882F5E00), frame # 2399
+[2020.10.29-03.39.04:294][399]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002068217A5C0), frame # 2399
+[2020.10.29-03.39.04:303][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.10.29-03.39.04:319][399]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.29-03.39.04:319][399]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2020.10.29-03.39.04:319][399]LogFileHelpers: Loading map 'Level1' took 0.152
+[2020.10.29-03.39.04:321][399]AssetCheck: New page: Asset Save: Level1
+[2020.10.29-03.39.04:321][399]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2020.10.29-03.39.33:332][415]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.10.29-03.39.36:628][559]Cmd: DELETE
+[2020.10.29-03.39.36:629][559]Cmd: ACTOR DELETE
+[2020.10.29-03.39.36:640][559]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.10.29-03.39.36:650][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.10.29-03.39.36:653][559]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.10.29-03.39.45:403][ 30]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Starter_Background_Cue)
+[2020.10.29-03.39.46:162][ 64]Cmd: DELETE
+[2020.10.29-03.39.46:162][ 64]Cmd: ACTOR DELETE
+[2020.10.29-03.39.46:164][ 64]LogEditorActor: Deleted Actor: AmbientSound
+[2020.10.29-03.39.46:180][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.10.29-03.39.46:183][ 64]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.10.29-03.39.47:465][136]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture10)
+[2020.10.29-03.39.48:504][189]LogEditorViewport: Clicking on Actor (CTRL LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.10.29-03.39.49:333][226]Cmd: DELETE
+[2020.10.29-03.39.49:333][226]Cmd: ACTOR DELETE
+[2020.10.29-03.39.49:335][226]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2020.10.29-03.39.49:337][226]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2020.10.29-03.39.49:345][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.10.29-03.39.49:348][226]LogEditorActor: Deleted 2 Actors (0.015 secs)
+[2020.10.29-03.39.53:419][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.10.29-03.39.53:904][441]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Table)
+[2020.10.29-03.39.54:486][467]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chair)
+[2020.10.29-03.39.55:864][535]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Statue)
+[2020.10.29-03.39.56:792][583]Cmd: DELETE
+[2020.10.29-03.39.56:792][583]Cmd: ACTOR DELETE
+[2020.10.29-03.39.56:796][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-03.39.56:796][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-03.39.56:797][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-03.39.56:798][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-03.39.56:807][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.10.29-03.39.56:810][583]LogEditorActor: Deleted 4 Actors (0.017 secs)
+[2020.10.29-03.39.57:608][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.29-03.39.58:544][678]Cmd: DELETE
+[2020.10.29-03.39.58:544][678]Cmd: ACTOR DELETE
+[2020.10.29-03.39.58:546][678]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-03.39.58:555][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.10.29-03.39.58:559][678]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.10.29-03.40.01:107][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.29-03.40.02:888][908]Cmd: DELETE
+[2020.10.29-03.40.02:888][908]Cmd: ACTOR DELETE
+[2020.10.29-03.40.02:891][908]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.29-03.40.02:901][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.10.29-03.40.02:905][908]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2020.10.29-03.40.07:658][ 25]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.10.29-03.40.20:015][713]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.29-03.40.22:947][866]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.29-03.40.26:172][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.29-03.40.26:196][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.29-03.40.26:197][ 29]PIE: New page: PIE session: Level1 (Oct 28, 2020, 5:40:26 PM)
+[2020.10.29-03.40.26:205][ 29]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.29-03.40.26:208][ 29]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.29-03.40.26:210][ 29]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.40.26:221][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010665s)
+[2020.10.29-03.40.26:223][ 29]LogAIModule: Creating AISystem for world Level1
+[2020.10.29-03.40.26:224][ 29]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020688085E00), frame # 6029
+[2020.10.29-03.40.26:224][ 29]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002060EDD4180), frame # 6029
+[2020.10.29-03.40.26:224][ 29]LogPlayLevel: PIE: World Init took: (0.002681s)
+[2020.10.29-03.40.26:224][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.014611s)
+[2020.10.29-03.40.26:234][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.10.29-03.40.26:241][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.29-03.40.26:241][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.29-03.40.26:241][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.29-03.40.26:241][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.29-03.40.26:241][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.29-03.40.26:241][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.29-03.40.26:241][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.29-03.40.26:241][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.29-03.40.26:243][ 29]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.29-03.40.26:243][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.29-03.40.26:250][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.29-03.40.26:250][ 29]LogAudioMixer: Display: 1: FrontRight
+[2020.10.29-03.40.26:304][ 29]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2020.10.29-03.40.26:305][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.29-03.40.26:305][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.29-03.40.26:305][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.29-03.40.26:306][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.29-03.40.26:372][ 29]LogInit: FAudioDevice initialized.
+[2020.10.29-03.40.26:398][ 29]LogLoad: Game class is 'GameModeBase'
+[2020.10.29-03.40.26:408][ 29]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.10.28-22.40.26
+[2020.10.29-03.40.26:411][ 29]LogWorld: Bringing up level for play took: 0.003825
+[2020.10.29-03.40.26:412][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.10.29-03.40.26:437][ 29]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2020.10.29-03.40.26:445][ 29]PIE: Server logged in
+[2020.10.29-03.40.26:451][ 29]PIE: Play in editor total start time 0.268 seconds.
+[2020.10.29-03.40.31:107][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.40.31:107][286]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.40.31:109][286]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-03.40.31:109][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.40.31:125][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.29-03.40.31:131][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.40.31:206][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.40.31:210][286]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020688085E00), frame # 6286
+[2020.10.29-03.40.31:210][286]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002060EDD4180), frame # 6286
+[2020.10.29-03.40.31:215][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.10.29-03.40.31:222][286]LogActorComponent: ReregisterComponent: (/Game/Maps/Level1.Level1:PersistentLevel.Starter_Background_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2020.10.29-03.40.31:258][287]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.10.29-03.40.34:392][466]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.29-03.40.38:159][668]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.10.29-03.41.40:053][411]LogSlate: Took 0.001504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.29-03.42.00:126][480]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2020.10.29-03.42.34:349][186]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.29-03.42.52:171][117]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.29-03.42.56:033][322]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Shooter_GM.Shooter_GM
+[2020.10.29-03.42.56:508][322]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 125 classes and 0 folders.
+[2020.10.29-03.42.59:322][395]LogRenderer: Reallocating scene render targets to support 980x536 Format 10 NumSamples 1 (Frame:76).
+[2020.10.29-03.42.59:556][409]LogSlate: Window 'Shooter_GM' being destroyed
+[2020.10.29-03.43.01:097][496]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.29-03.43.03:505][634]BlueprintLog: New page: Compile Shooter_GM
+[2020.10.29-03.43.03:539][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.10.29-03.43.03:560][634]LogSlate: Took 0.000656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.29-03.43.04:118][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Shooter_GM" FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Shooter_GM.uasset" SILENT=true
+[2020.10.29-03.43.04:125][664]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Saved/Shooter_GM5FFAD7E6468EE5587BEED4ACB4767E7C.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Shooter_GM.uasset'
+[2020.10.29-03.43.04:138][664]AssetCheck: New page: Asset Save: Shooter_GM
+[2020.10.29-03.43.04:138][664]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Shooter_GM.Shooter_GM
+[2020.10.29-03.43.05:538][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.29-03.43.05:558][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.10.29-03.43.05:570][745]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Saved/Level135DAB60340BC91293D9071A945B58D08.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/Maps/Level1.umap'
+[2020.10.29-03.43.05:588][745]AssetCheck: New page: Asset Save: Level1
+[2020.10.29-03.43.05:588][745]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2020.10.29-03.43.08:319][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player" FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset" SILENT=true
+[2020.10.29-03.43.08:326][902]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Saved/PlayerA9F753F24E9A372D3B7C35983888ADE9.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset'
+[2020.10.29-03.43.08:336][902]AssetCheck: New page: Asset Save: Player
+[2020.10.29-03.43.08:336][902]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Player.Player
+[2020.10.29-03.43.25:827][938]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.29-03.43.28:433][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.29-03.43.28:454][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.10.29-03.43.28:464][ 82]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Saved/Level131B4E6CF418322F45C9A71ADB26334B3.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/Maps/Level1.umap'
+[2020.10.29-03.43.28:481][ 82]AssetCheck: New page: Asset Save: Level1
+[2020.10.29-03.43.28:481][ 82]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2020.10.29-03.43.28:816][103]LogRenderer: Reallocating scene render targets to support 1224x536 Format 10 NumSamples 1 (Frame:10472).
+[2020.10.29-03.43.29:773][160]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.29-03.43.29:780][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.29-03.43.29:780][160]PIE: New page: PIE session: Level1 (Oct 28, 2020, 5:43:29 PM)
+[2020.10.29-03.43.29:780][160]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.43.29:783][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002898s)
+[2020.10.29-03.43.29:784][160]LogAIModule: Creating AISystem for world Level1
+[2020.10.29-03.43.29:784][160]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020688DA3400), frame # 13160
+[2020.10.29-03.43.29:784][160]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002064DE3C180), frame # 13160
+[2020.10.29-03.43.29:784][160]LogPlayLevel: PIE: World Init took: (0.001235s)
+[2020.10.29-03.43.29:784][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004260s)
+[2020.10.29-03.43.29:803][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.10.29-03.43.29:804][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.29-03.43.29:804][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.29-03.43.29:804][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.29-03.43.29:804][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.29-03.43.29:804][160]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.29-03.43.29:804][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.29-03.43.29:804][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.29-03.43.29:804][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.29-03.43.29:805][160]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.29-03.43.29:805][160]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.29-03.43.29:810][160]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.29-03.43.29:810][160]LogAudioMixer: Display: 1: FrontRight
+[2020.10.29-03.43.29:840][160]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2020.10.29-03.43.29:840][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.29-03.43.29:840][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.29-03.43.29:840][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.29-03.43.29:841][160]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.29-03.43.29:859][160]LogInit: FAudioDevice initialized.
+[2020.10.29-03.43.29:912][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.43.29:913][160]LogLoad: Game class is 'Shooter_GM_C'
+[2020.10.29-03.43.29:914][160]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.10.28-22.43.29
+[2020.10.29-03.43.29:914][160]LogWorld: Bringing up level for play took: 0.000561
+[2020.10.29-03.43.29:914][160]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.10.29-03.43.29:919][160]PIE: Server logged in
+[2020.10.29-03.43.29:920][160]PIE: Play in editor total start time 0.143 seconds.
+[2020.10.29-03.43.29:978][161]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.10.29-03.43.31:023][220]LogRenderer: Reallocating scene render targets to support 1280x724 Format 10 NumSamples 1 (Frame:61).
+[2020.10.29-03.43.31:128][220]LogRenderer: Reallocating scene render targets to support 1280x740 Format 10 NumSamples 1 (Frame:62).
+[2020.10.29-03.43.31:223][220]LogRenderer: Reallocating scene render targets to support 1280x784 Format 10 NumSamples 1 (Frame:63).
+[2020.10.29-03.43.31:316][220]LogRenderer: Reallocating scene render targets to support 1280x792 Format 10 NumSamples 1 (Frame:64).
+[2020.10.29-03.43.34:854][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.43.34:854][335]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.43.34:854][335]LogSlate: Window 'MechaBane Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.29-03.43.34:859][335]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-03.43.34:859][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.43.34:873][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.29-03.43.34:876][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.43.34:916][335]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002064DE3C180), frame # 13335
+[2020.10.29-03.43.34:916][335]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020688DA3400), frame # 13335
+[2020.10.29-03.43.34:918][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.10.29-03.43.34:932][336]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.10.29-03.43.40:696][675]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/Player.Player
+[2020.10.29-03.43.42:355][754]LogSlate: Took 0.009775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.29-03.44.08:400][258]BlueprintLog: New page: Compile Player
+[2020.10.29-03.44.08:434][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.10.29-03.44.08:808][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player" FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset" SILENT=true
+[2020.10.29-03.44.08:816][278]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Saved/Player65A440B5431396BFCBA9F7A77953108E.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset'
+[2020.10.29-03.44.08:827][278]AssetCheck: New page: Asset Save: Player
+[2020.10.29-03.44.08:827][278]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Player.Player
+[2020.10.29-03.44.09:847][337]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.29-03.44.09:852][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.29-03.44.09:852][337]PIE: New page: PIE session: Level1 (Oct 28, 2020, 5:44:09 PM)
+[2020.10.29-03.44.09:852][337]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.44.09:855][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002690s)
+[2020.10.29-03.44.09:857][337]LogAIModule: Creating AISystem for world Level1
+[2020.10.29-03.44.09:857][337]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002064E275A00), frame # 15337
+[2020.10.29-03.44.09:857][337]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002068819F9C0), frame # 15337
+[2020.10.29-03.44.09:857][337]LogPlayLevel: PIE: World Init took: (0.001654s)
+[2020.10.29-03.44.09:857][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004437s)
+[2020.10.29-03.44.09:878][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.10.29-03.44.09:879][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.29-03.44.09:879][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.29-03.44.09:879][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.29-03.44.09:879][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.29-03.44.09:879][337]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.29-03.44.09:879][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.29-03.44.09:879][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.29-03.44.09:879][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.29-03.44.09:879][337]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.29-03.44.09:879][337]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.29-03.44.09:884][337]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.29-03.44.09:884][337]LogAudioMixer: Display: 1: FrontRight
+[2020.10.29-03.44.09:910][337]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2020.10.29-03.44.09:911][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.29-03.44.09:911][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.29-03.44.09:911][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.29-03.44.09:911][337]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.29-03.44.09:932][337]LogInit: FAudioDevice initialized.
+[2020.10.29-03.44.09:975][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.44.09:976][337]LogLoad: Game class is 'Shooter_GM_C'
+[2020.10.29-03.44.09:977][337]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.10.28-22.44.09
+[2020.10.29-03.44.09:977][337]LogWorld: Bringing up level for play took: 0.000525
+[2020.10.29-03.44.09:977][337]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.10.29-03.44.09:981][337]PIE: Server logged in
+[2020.10.29-03.44.09:981][337]PIE: Play in editor total start time 0.13 seconds.
+[2020.10.29-03.44.13:762][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.44.13:762][558]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.44.13:763][558]LogSlate: Window 'MechaBane Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.29-03.44.13:769][558]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-03.44.13:769][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.44.13:780][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.29-03.44.13:783][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.44.13:826][558]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002068819F9C0), frame # 15558
+[2020.10.29-03.44.13:826][558]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002064E275A00), frame # 15558
+[2020.10.29-03.44.13:828][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.10.29-03.44.13:841][559]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.10.29-03.44.39:324][ 49]BlueprintLog: New page: Compile Player
+[2020.10.29-03.44.39:357][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.10.29-03.44.39:934][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player" FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset" SILENT=true
+[2020.10.29-03.44.39:941][ 81]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Saved/PlayerC7320FE34163E06174729387F950B1C9.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset'
+[2020.10.29-03.44.39:955][ 81]AssetCheck: New page: Asset Save: Player
+[2020.10.29-03.44.39:955][ 81]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Player.Player
+[2020.10.29-03.44.40:540][115]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.29-03.44.40:546][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.29-03.44.40:546][115]PIE: New page: PIE session: Level1 (Oct 28, 2020, 5:44:40 PM)
+[2020.10.29-03.44.40:546][115]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.44.40:550][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003773s)
+[2020.10.29-03.44.40:551][115]LogAIModule: Creating AISystem for world Level1
+[2020.10.29-03.44.40:551][115]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000206D1F9C600), frame # 17115
+[2020.10.29-03.44.40:551][115]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000206C9000A40), frame # 17115
+[2020.10.29-03.44.40:551][115]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2020.10.29-03.44.40:551][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004912s)
+[2020.10.29-03.44.40:572][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.10.29-03.44.40:573][115]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.29-03.44.40:573][115]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.29-03.44.40:573][115]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.29-03.44.40:573][115]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.29-03.44.40:573][115]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.29-03.44.40:573][115]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.29-03.44.40:573][115]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.29-03.44.40:573][115]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.29-03.44.40:574][115]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.29-03.44.40:574][115]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.29-03.44.40:577][115]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.29-03.44.40:577][115]LogAudioMixer: Display: 1: FrontRight
+[2020.10.29-03.44.40:602][115]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2020.10.29-03.44.40:602][115]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.29-03.44.40:602][115]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.29-03.44.40:602][115]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.29-03.44.40:603][115]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.29-03.44.40:623][115]LogInit: FAudioDevice initialized.
+[2020.10.29-03.44.40:676][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.44.40:676][115]LogLoad: Game class is 'Shooter_GM_C'
+[2020.10.29-03.44.40:677][115]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.10.28-22.44.40
+[2020.10.29-03.44.40:677][115]LogWorld: Bringing up level for play took: 0.000632
+[2020.10.29-03.44.40:677][115]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.10.29-03.44.40:681][115]PIE: Server logged in
+[2020.10.29-03.44.40:681][115]PIE: Play in editor total start time 0.136 seconds.
+[2020.10.29-03.44.43:612][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.44.43:612][285]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.44.43:613][285]LogSlate: Window 'MechaBane Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.29-03.44.43:618][285]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-03.44.43:618][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.44.43:629][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.29-03.44.43:632][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.44.43:678][285]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000206C9000A40), frame # 17285
+[2020.10.29-03.44.43:678][285]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000206D1F9C600), frame # 17285
+[2020.10.29-03.44.43:680][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.10.29-03.44.43:693][286]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.10.29-03.45.02:734][389]BlueprintLog: New page: Compile Player
+[2020.10.29-03.45.02:767][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.10.29-03.45.03:366][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player" FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset" SILENT=true
+[2020.10.29-03.45.03:374][422]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Saved/Player004FE0604848803B18BBC3A7F210D473.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset'
+[2020.10.29-03.45.03:385][422]AssetCheck: New page: Asset Save: Player
+[2020.10.29-03.45.03:385][422]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Player.Player
+[2020.10.29-03.45.04:222][470]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.29-03.45.04:227][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.29-03.45.04:227][470]PIE: New page: PIE session: Level1 (Oct 28, 2020, 5:45:04 PM)
+[2020.10.29-03.45.04:227][470]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.45.04:231][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003738s)
+[2020.10.29-03.45.04:232][470]LogAIModule: Creating AISystem for world Level1
+[2020.10.29-03.45.04:232][470]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000206D1A41400), frame # 18470
+[2020.10.29-03.45.04:232][470]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000206D0E09580), frame # 18470
+[2020.10.29-03.45.04:232][470]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2020.10.29-03.45.04:232][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004998s)
+[2020.10.29-03.45.04:253][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.10.29-03.45.04:255][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.29-03.45.04:255][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.29-03.45.04:255][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.29-03.45.04:255][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.29-03.45.04:255][470]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.29-03.45.04:255][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.29-03.45.04:255][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.29-03.45.04:255][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.29-03.45.04:255][470]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.29-03.45.04:255][470]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.29-03.45.04:259][470]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.29-03.45.04:259][470]LogAudioMixer: Display: 1: FrontRight
+[2020.10.29-03.45.04:281][470]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2020.10.29-03.45.04:282][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.29-03.45.04:282][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.29-03.45.04:282][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.29-03.45.04:282][470]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.29-03.45.04:303][470]LogInit: FAudioDevice initialized.
+[2020.10.29-03.45.04:357][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.45.04:357][470]LogLoad: Game class is 'Shooter_GM_C'
+[2020.10.29-03.45.04:358][470]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.10.28-22.45.04
+[2020.10.29-03.45.04:359][470]LogWorld: Bringing up level for play took: 0.000616
+[2020.10.29-03.45.04:359][470]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.10.29-03.45.04:363][470]PIE: Server logged in
+[2020.10.29-03.45.04:364][470]PIE: Play in editor total start time 0.137 seconds.
+[2020.10.29-03.45.08:662][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.45.08:662][723]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.45.08:663][723]LogSlate: Window 'MechaBane Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.29-03.45.08:670][723]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-03.45.08:671][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.45.08:678][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.29-03.45.08:681][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.45.08:725][723]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000206D0E09580), frame # 18723
+[2020.10.29-03.45.08:725][723]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000206D1A41400), frame # 18723
+[2020.10.29-03.45.08:726][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.10.29-03.45.08:739][724]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.10.29-03.45.39:288][301]BlueprintLog: New page: Compile Player
+[2020.10.29-03.45.39:322][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.10.29-03.45.39:843][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player" FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset" SILENT=true
+[2020.10.29-03.45.39:849][328]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Saved/Player5AB7ACA04B1E569B364731B735B43030.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset'
+[2020.10.29-03.45.39:863][328]AssetCheck: New page: Asset Save: Player
+[2020.10.29-03.45.39:863][328]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Player.Player
+[2020.10.29-03.49.40:144][632]BlueprintLog: New page: Compile Player
+[2020.10.29-03.49.40:179][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.10.29-03.49.40:611][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player" FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset" SILENT=true
+[2020.10.29-03.49.40:619][655]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Saved/PlayerB64200C04E3FB528942543AAD778363B.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset'
+[2020.10.29-03.49.40:630][655]AssetCheck: New page: Asset Save: Player
+[2020.10.29-03.49.40:630][655]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Player.Player
+[2020.10.29-03.49.47:681][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.29-03.49.47:687][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.29-03.49.47:687][ 76]PIE: New page: PIE session: Level1 (Oct 28, 2020, 5:49:47 PM)
+[2020.10.29-03.49.47:687][ 76]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.49.47:690][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002954s)
+[2020.10.29-03.49.47:691][ 76]LogAIModule: Creating AISystem for world Level1
+[2020.10.29-03.49.47:691][ 76]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000206A38B3800), frame # 35076
+[2020.10.29-03.49.47:691][ 76]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000206F341A980), frame # 35076
+[2020.10.29-03.49.47:692][ 76]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2020.10.29-03.49.47:692][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004122s)
+[2020.10.29-03.49.47:714][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.10.29-03.49.47:715][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.29-03.49.47:715][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.29-03.49.47:715][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.29-03.49.47:715][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.29-03.49.47:715][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.29-03.49.47:715][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.29-03.49.47:715][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.29-03.49.47:715][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.29-03.49.47:716][ 76]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.29-03.49.47:716][ 76]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.29-03.49.47:730][ 76]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.29-03.49.47:730][ 76]LogAudioMixer: Display: 1: FrontRight
+[2020.10.29-03.49.47:758][ 76]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2020.10.29-03.49.47:758][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.29-03.49.47:758][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.29-03.49.47:758][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.29-03.49.47:759][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.29-03.49.47:779][ 76]LogInit: FAudioDevice initialized.
+[2020.10.29-03.49.47:823][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.49.47:823][ 76]LogLoad: Game class is 'Shooter_GM_C'
+[2020.10.29-03.49.47:825][ 76]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.10.28-22.49.47
+[2020.10.29-03.49.47:825][ 76]LogWorld: Bringing up level for play took: 0.000609
+[2020.10.29-03.49.47:825][ 76]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.10.29-03.49.47:828][ 76]PIE: Server logged in
+[2020.10.29-03.49.47:829][ 76]PIE: Play in editor total start time 0.142 seconds.
+[2020.10.29-03.49.53:943][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.49.53:943][438]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.49.53:943][438]LogSlate: Window 'MechaBane Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.29-03.49.53:949][438]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-03.49.53:949][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.49.53:956][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.29-03.49.53:958][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.49.54:001][438]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000206F341A980), frame # 35438
+[2020.10.29-03.49.54:001][438]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000206A38B3800), frame # 35438
+[2020.10.29-03.49.54:003][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.10.29-03.49.54:018][439]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.10.29-03.51.35:165][335]BlueprintLog: New page: Compile Player
+[2020.10.29-03.51.35:201][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.10.29-03.51.35:583][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player" FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset" SILENT=true
+[2020.10.29-03.51.35:593][354]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Saved/Player124336634EDFD7A692DD14B74AF6836E.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset'
+[2020.10.29-03.51.35:604][354]AssetCheck: New page: Asset Save: Player
+[2020.10.29-03.51.35:604][354]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Player.Player
+[2020.10.29-03.52.02:002][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player" FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset" SILENT=true
+[2020.10.29-03.52.02:012][929]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Saved/Player298F2F234C4C12065C253C863DBDE9F1.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/Content/BluePrint/Player.uasset'
+[2020.10.29-03.52.02:023][929]AssetCheck: New page: Asset Save: Player
+[2020.10.29-03.52.02:023][929]LogContentValidation: Display: Validating Blueprint /Game/BluePrint/Player.Player
+[2020.10.29-03.52.06:355][184]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.29-03.52.06:360][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.29-03.52.06:360][184]PIE: New page: PIE session: Level1 (Oct 28, 2020, 5:52:06 PM)
+[2020.10.29-03.52.06:360][184]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.52.06:364][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003482s)
+[2020.10.29-03.52.06:365][184]LogAIModule: Creating AISystem for world Level1
+[2020.10.29-03.52.06:365][184]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000206F45D1600), frame # 43184
+[2020.10.29-03.52.06:365][184]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000206E600CA40), frame # 43184
+[2020.10.29-03.52.06:365][184]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2020.10.29-03.52.06:365][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.004604s)
+[2020.10.29-03.52.06:386][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.10.29-03.52.06:387][184]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.29-03.52.06:387][184]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.29-03.52.06:387][184]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.29-03.52.06:387][184]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.29-03.52.06:387][184]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.29-03.52.06:387][184]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.29-03.52.06:387][184]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.29-03.52.06:387][184]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.29-03.52.06:387][184]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.29-03.52.06:387][184]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.29-03.52.06:392][184]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.29-03.52.06:392][184]LogAudioMixer: Display: 1: FrontRight
+[2020.10.29-03.52.06:417][184]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2020.10.29-03.52.06:418][184]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.29-03.52.06:418][184]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.29-03.52.06:418][184]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.29-03.52.06:418][184]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.29-03.52.06:438][184]LogInit: FAudioDevice initialized.
+[2020.10.29-03.52.06:484][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.52.06:484][184]LogLoad: Game class is 'Shooter_GM_C'
+[2020.10.29-03.52.06:485][184]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.10.28-22.52.06
+[2020.10.29-03.52.06:486][184]LogWorld: Bringing up level for play took: 0.000576
+[2020.10.29-03.52.06:486][184]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.10.29-03.52.06:489][184]PIE: Server logged in
+[2020.10.29-03.52.06:489][184]PIE: Play in editor total start time 0.13 seconds.
+[2020.10.29-03.52.17:593][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.52.17:593][845]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.52.17:594][845]LogSlate: Window 'MechaBane Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.29-03.52.17:600][845]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-03.52.17:600][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.52.17:610][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.29-03.52.17:613][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.52.17:658][845]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000206E600CA40), frame # 43845
+[2020.10.29-03.52.17:658][845]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000206F45D1600), frame # 43845
+[2020.10.29-03.52.17:660][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.10.29-03.52.17:675][846]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.10.29-03.52.34:610][738]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.10.29-03.52.59:823][241]LogEditorViewport: Clicking Background
+[2020.10.29-03.53.07:268][680]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.10.29-03.53.09:744][829]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.53.11:060][908]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.53.13:510][ 55]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.53.13:894][ 78]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.53.14:094][ 90]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.53.14:277][101]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.53.14:460][112]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.53.14:710][127]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.53.16:210][217]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.53.16:493][234]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.53.17:777][311]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.53.19:110][391]Cmd: TRANSACTION UNDO
+[2020.10.29-03.53.19:110][391]LogEditorTransaction: Undo Set Texpan
+[2020.10.29-03.53.20:584][468]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.53.23:084][618]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.53.23:618][650]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.53.26:355][814]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.53.27:639][891]Cmd: TRANSACTION UNDO
+[2020.10.29-03.53.27:639][891]LogEditorTransaction: Undo Set Texpan
+[2020.10.29-03.53.29:384][984]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.53.30:768][ 67]Cmd: TRANSACTION UNDO
+[2020.10.29-03.53.30:768][ 67]LogEditorTransaction: Undo Set Texpan
+[2020.10.29-03.53.31:991][130]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.53.32:409][155]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.53.33:192][202]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.53.33:375][213]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.53.33:559][224]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.53.34:042][253]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.53.34:242][265]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.53.34:425][276]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.53.34:592][286]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.53.34:792][298]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.53.35:826][360]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.53.36:159][380]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.53.36:442][397]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.53.37:959][488]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.53.39:475][579]Cmd: TRANSACTION UNDO
+[2020.10.29-03.53.39:475][579]LogEditorTransaction: Undo Set Texpan
+[2020.10.29-03.53.40:457][627]LogEditorViewport: Clicking Background
+[2020.10.29-03.53.52:185][328]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2020.10.29-03.54.16:390][778]Cmd: SELECT NONE
+[2020.10.29-03.54.18:202][885]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.10.29-03.54.18:718][916]Cmd: SELECT NONE
+[2020.10.29-03.54.20:574][ 26]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.54.21:891][105]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.54.22:375][134]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.54.24:008][232]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.54.24:424][257]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.54.24:574][266]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.54.24:742][276]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.54.24:907][286]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.54.25:074][296]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.54.25:224][305]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.54.25:391][315]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.54.25:574][326]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.54.26:408][376]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.54.26:875][404]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.54.27:527][443]Cmd: SELECT NONE
+[2020.10.29-03.54.35:744][936]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.29-03.54.35:753][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.29-03.54.35:753][936]PIE: New page: PIE session: Level1 (Oct 28, 2020, 5:54:35 PM)
+[2020.10.29-03.54.35:781][936]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.54.35:786][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004119s)
+[2020.10.29-03.54.35:786][936]LogAIModule: Creating AISystem for world Level1
+[2020.10.29-03.54.35:787][936]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000207070F7400), frame # 51936
+[2020.10.29-03.54.35:787][936]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000206EA2A9580), frame # 51936
+[2020.10.29-03.54.35:787][936]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2020.10.29-03.54.35:787][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.005510s)
+[2020.10.29-03.54.35:807][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.10.29-03.54.35:809][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.29-03.54.35:809][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.29-03.54.35:809][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.29-03.54.35:809][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.29-03.54.35:809][936]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.29-03.54.35:809][936]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.29-03.54.35:809][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.29-03.54.35:809][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.29-03.54.35:810][936]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.29-03.54.35:810][936]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.29-03.54.35:816][936]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.29-03.54.35:816][936]LogAudioMixer: Display: 1: FrontRight
+[2020.10.29-03.54.35:845][936]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2020.10.29-03.54.35:845][936]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.29-03.54.35:845][936]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.29-03.54.35:845][936]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.29-03.54.35:845][936]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.29-03.54.35:866][936]LogInit: FAudioDevice initialized.
+[2020.10.29-03.54.35:874][936]LogLoad: Game class is 'Shooter_GM_C'
+[2020.10.29-03.54.35:875][936]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.10.28-22.54.35
+[2020.10.29-03.54.35:875][936]LogWorld: Bringing up level for play took: 0.000493
+[2020.10.29-03.54.35:875][936]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.10.29-03.54.35:877][936]PIE: Server logged in
+[2020.10.29-03.54.35:878][936]PIE: Play in editor total start time 0.129 seconds.
+[2020.10.29-03.54.45:553][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.54.45:553][514]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.54.45:553][514]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-03.54.45:553][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.54.45:566][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.29-03.54.45:569][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.54.45:613][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.54.45:614][514]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000206EA2A9580), frame # 52514
+[2020.10.29-03.54.45:614][514]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000207070F7400), frame # 52514
+[2020.10.29-03.54.45:616][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.10.29-03.54.45:633][515]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.10.29-03.55.16:823][375]Cmd: SELECT NONE
+[2020.10.29-03.55.20:773][609]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.10.29-03.55.22:540][715]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.55.23:073][747]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.55.23:240][757]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.55.23:423][768]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.55.23:591][778]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.55.23:757][788]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.55.23:890][796]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.55.24:057][806]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.55.24:224][816]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.55.24:407][827]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.55.24:556][836]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.55.25:440][889]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.55.25:623][900]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.55.25:790][910]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.55.26:007][923]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.55.26:173][933]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.55.26:540][955]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.55.26:823][972]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.55.27:224][996]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.55.27:758][ 28]Cmd: POLY TEXPAN U=0.000000 V=16.000000
+[2020.10.29-03.55.30:290][180]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.10.29-03.55.30:908][217]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.10.29-03.55.31:324][242]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.10.29-03.55.31:641][261]Cmd: POLY TEXPAN U=0.000000 V=1.000000
+[2020.10.29-03.55.34:358][424]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.55.35:258][478]Cmd: TRANSACTION UNDO
+[2020.10.29-03.55.35:258][478]LogEditorTransaction: Undo Set Texpan
+[2020.10.29-03.55.36:996][572]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.37:428][598]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.37:762][618]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.37:945][629]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.38:112][639]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.38:278][649]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.38:478][661]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.38:628][670]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.38:912][687]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.39:328][712]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.40:179][763]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.41:129][820]Cmd: SELECT NONE
+[2020.10.29-03.55.52:911][525]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.55.53:661][570]Cmd: TRANSACTION UNDO
+[2020.10.29-03.55.53:661][570]LogEditorTransaction: Undo Set Texpan
+[2020.10.29-03.55.54:753][622]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.55.54:936][633]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.55.55:120][644]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.55.55:270][653]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.55.55:437][663]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.55.55:853][688]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.56:170][707]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.56:504][727]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.56:720][740]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.57:070][761]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.57:420][782]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.57:620][794]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.57:786][804]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.57:970][815]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.58:353][838]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.58:770][863]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2020.10.29-03.55.59:654][916]LogEditorViewport: Clicking Background
+[2020.10.29-03.56.31:509][821]Cmd: SELECT NONE
+[2020.10.29-03.56.32:926][904]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.10.29-03.56.33:392][932]Cmd: SELECT NONE
+[2020.10.29-03.56.37:953][204]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.38:336][227]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.38:503][237]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.38:703][249]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.38:853][258]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.39:037][269]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.39:203][279]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.39:370][289]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.39:553][300]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.39:686][308]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.39:870][319]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.40:053][330]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.40:236][341]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.40:402][351]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.40:570][361]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.40:737][371]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.40:920][382]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.41:086][392]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.41:253][402]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.41:436][413]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.41:619][424]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.41:803][435]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.56.43:020][508]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.56.43:203][519]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.56.43:386][530]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.56.43:570][541]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.56.43:736][551]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.56.43:919][562]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.56.44:402][591]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.56.44:702][609]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.56.45:053][630]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.56.46:236][701]Cmd: SELECT NONE
+[2020.10.29-03.56.48:428][831]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.56.48:912][860]Cmd: SELECT NONE
+[2020.10.29-03.56.50:339][944]LogEditorViewport: Clicking Background
+[2020.10.29-03.56.50:589][959]Cmd: SELECT NONE
+[2020.10.29-03.57.24:145][968]LogEditorViewport: Clicking Background
+[2020.10.29-03.57.25:822][ 66]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.10.29-03.57.26:305][ 95]Cmd: SELECT NONE
+[2020.10.29-03.57.28:487][224]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.28:854][246]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.29:020][256]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.29:205][267]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.29:371][277]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.29:538][287]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.29:720][298]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.29:887][308]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.30:054][318]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.30:204][327]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.30:388][338]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.30:554][348]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.30:721][358]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.30:904][369]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.31:088][380]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.31:237][389]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.31:404][399]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.31:571][409]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.31:754][420]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.31:921][430]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.32:104][441]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.32:271][451]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.32:454][462]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.32:621][472]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.32:804][483]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.32:971][493]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.33:138][503]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.33:321][514]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.33:488][524]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.33:638][533]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.33:837][545]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.33:987][554]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.34:171][565]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.34:354][576]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.34:521][586]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.34:688][596]Cmd: POLY TEXPAN U=0.000000 V=4.000000
+[2020.10.29-03.57.35:938][671]Cmd: TRANSACTION UNDO
+[2020.10.29-03.57.35:938][671]LogEditorTransaction: Undo Set Texpan
+[2020.10.29-03.57.37:396][744]LogEditorViewport: Clicking Background
+[2020.10.29-03.58.14:251][944]Cmd: SELECT NONE
+[2020.10.29-03.58.18:623][204]Cmd: POLY TEXMULT UU=-0.000000 VV=-0.000000 UV=-1.000000 VU=1.000000
+[2020.10.29-03.58.19:073][231]Cmd: SELECT NONE
+[2020.10.29-03.58.20:702][327]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.58.21:168][355]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.58.21:352][366]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.58.21:518][376]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.58.21:702][387]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.58.22:018][406]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.58.22:185][416]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.58.22:368][427]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.58.22:518][436]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.58.22:702][447]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.58.22:868][457]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.58.23:035][467]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.10.29-03.58.24:301][543]Cmd: SELECT NONE
+[2020.10.29-03.58.30:752][928]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2020.10.29-03.58.35:438][207]LogEditorViewport: Clicking Background
+[2020.10.29-03.58.41:343][558]LogEditorViewport: Clicking Background
+[2020.10.29-03.58.49:191][ 25]LogEditorViewport: Clicking Background
+[2020.10.29-03.58.55:557][407]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.29-03.58.55:566][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.29-03.58.55:566][407]PIE: New page: PIE session: Level1 (Oct 28, 2020, 5:58:55 PM)
+[2020.10.29-03.58.55:566][407]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.58.55:570][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003693s)
+[2020.10.29-03.58.55:571][407]LogAIModule: Creating AISystem for world Level1
+[2020.10.29-03.58.55:571][407]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000206E7E37200), frame # 67407
+[2020.10.29-03.58.55:571][407]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000206F31D6840), frame # 67407
+[2020.10.29-03.58.55:571][407]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2020.10.29-03.58.55:571][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.005101s)
+[2020.10.29-03.58.55:595][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.10.29-03.58.55:597][407]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.29-03.58.55:597][407]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.29-03.58.55:597][407]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.29-03.58.55:597][407]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.29-03.58.55:597][407]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.29-03.58.55:597][407]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.29-03.58.55:597][407]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.29-03.58.55:597][407]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.29-03.58.55:598][407]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.29-03.58.55:598][407]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.29-03.58.55:603][407]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.29-03.58.55:603][407]LogAudioMixer: Display: 1: FrontRight
+[2020.10.29-03.58.55:629][407]LogAudioMixer: Display: Using Audio Device Speakers (2- USB Audio Device)
+[2020.10.29-03.58.55:629][407]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.29-03.58.55:629][407]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.29-03.58.55:629][407]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.29-03.58.55:630][407]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.29-03.58.55:649][407]LogInit: FAudioDevice initialized.
+[2020.10.29-03.58.55:660][407]LogLoad: Game class is 'Shooter_GM_C'
+[2020.10.29-03.58.55:661][407]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.10.28-22.58.55
+[2020.10.29-03.58.55:661][407]LogWorld: Bringing up level for play took: 0.000687
+[2020.10.29-03.58.55:662][407]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.10.29-03.58.55:664][407]PIE: Server logged in
+[2020.10.29-03.58.55:665][407]PIE: Play in editor total start time 0.102 seconds.
+[2020.10.29-03.59.04:902][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.59.04:902][958]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.10.29-03.59.04:902][958]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-03.59.04:903][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.59.04:909][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.29-03.59.04:912][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-03.59.04:952][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-03.59.04:953][958]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000206F31D6840), frame # 67958
+[2020.10.29-03.59.04:953][958]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000206E7E37200), frame # 67958
+[2020.10.29-03.59.04:955][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.10.29-03.59.04:972][959]LogPlayLevel: Display: Destroying online subsystem :Context_13
