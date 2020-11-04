@@ -4307,3 +4307,403 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.04-04.14.13:741][784]LogFileHelpers: Saving map 'Level1' took 0.742
 [2020.11.04-04.14.13:776][784]AssetCheck: New page: Asset Save: Level1
 [2020.11.04-04.14.13:777][784]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2020.11.04-04.15.09:208][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete414)
+[2020.11.04-04.15.09:680][516]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete416)
+[2020.11.04-04.15.10:564][565]Cmd: MODE GRID=0
+[2020.11.04-04.15.10:716][574]Cmd: DUPLICATE
+[2020.11.04-04.15.10:716][574]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.15.10:965][587]Cmd: MODE GRID=1
+[2020.11.04-04.15.17:854][978]Cmd: MODE GRID=0
+[2020.11.04-04.15.19:110][ 51]Cmd: MODE GRID=1
+[2020.11.04-04.15.25:076][403]Cmd: MODE GRID=0
+[2020.11.04-04.15.25:230][412]Cmd: DUPLICATE
+[2020.11.04-04.15.25:230][412]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.15.25:459][424]Cmd: MODE GRID=1
+[2020.11.04-04.15.31:713][781]Cmd: MODE GRID=0
+[2020.11.04-04.15.31:899][792]Cmd: DUPLICATE
+[2020.11.04-04.15.31:899][792]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.15.32:078][801]Cmd: MODE GRID=1
+[2020.11.04-04.15.37:251][ 93]Cmd: MODE GRID=0
+[2020.11.04-04.15.37:354][ 99]Cmd: DUPLICATE
+[2020.11.04-04.15.37:355][ 99]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.15.37:572][110]Cmd: MODE GRID=1
+[2020.11.04-04.15.42:159][368]Cmd: MODE GRID=0
+[2020.11.04-04.15.42:311][377]Cmd: DUPLICATE
+[2020.11.04-04.15.42:311][377]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.15.42:510][387]Cmd: MODE GRID=1
+[2020.11.04-04.15.48:214][711]Cmd: MODE GRID=0
+[2020.11.04-04.15.48:318][717]Cmd: DUPLICATE
+[2020.11.04-04.15.48:318][717]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.15.48:504][726]Cmd: MODE GRID=1
+[2020.11.04-04.16.08:295][837]Cmd: MODE GRID=0
+[2020.11.04-04.16.08:498][849]Cmd: DUPLICATE
+[2020.11.04-04.16.08:498][849]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.16.08:663][857]Cmd: MODE GRID=1
+[2020.11.04-04.16.15:154][229]Cmd: MODE GRID=0
+[2020.11.04-04.16.15:290][237]Cmd: DUPLICATE
+[2020.11.04-04.16.15:290][237]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.16.15:522][249]Cmd: MODE GRID=1
+[2020.11.04-04.16.23:114][688]Cmd: MODE GRID=0
+[2020.11.04-04.16.23:233][695]Cmd: DUPLICATE
+[2020.11.04-04.16.23:233][695]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.16.23:382][702]Cmd: MODE GRID=1
+[2020.11.04-04.16.36:376][460]Cmd: MODE GRID=0
+[2020.11.04-04.16.36:562][471]Cmd: DUPLICATE
+[2020.11.04-04.16.36:562][471]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.16.36:762][481]Cmd: MODE GRID=1
+[2020.11.04-04.16.59:034][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete435)
+[2020.11.04-04.16.59:569][789]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete436)
+[2020.11.04-04.17.04:813][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete433)
+[2020.11.04-04.17.05:304][119]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete434)
+[2020.11.04-04.17.09:851][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete431)
+[2020.11.04-04.17.10:552][403]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete432)
+[2020.11.04-04.17.14:069][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete429)
+[2020.11.04-04.17.14:620][620]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete430)
+[2020.11.04-04.17.20:349][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete415)
+[2020.11.04-04.17.21:052][981]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete417)
+[2020.11.04-04.17.26:238][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete418)
+[2020.11.04-04.17.30:664][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete414)
+[2020.11.04-04.17.31:236][553]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete416)
+[2020.11.04-04.17.35:636][797]Cmd: TRANSACTION UNDO
+[2020.11.04-04.17.35:636][797]LogEditorTransaction: Undo Rotate Actors
+[2020.11.04-04.17.38:664][963]Cmd: SELECT NONE
+[2020.11.04-04.17.42:366][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete419)
+[2020.11.04-04.17.42:821][199]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete420)
+[2020.11.04-04.17.46:530][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete421)
+[2020.11.04-04.17.47:013][426]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete422)
+[2020.11.04-04.17.51:372][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete423)
+[2020.11.04-04.17.51:807][688]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete424)
+[2020.11.04-04.17.54:448][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete425)
+[2020.11.04-04.17.55:082][858]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete426)
+[2020.11.04-04.18.00:130][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete427)
+[2020.11.04-04.18.00:579][173]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete428)
+[2020.11.04-04.18.03:617][349]Cmd: SELECT NONE
+[2020.11.04-04.18.09:097][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete414)
+[2020.11.04-04.18.09:516][695]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete416)
+[2020.11.04-04.18.10:181][730]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete419)
+[2020.11.04-04.18.10:583][749]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete420)
+[2020.11.04-04.18.11:068][773]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete421)
+[2020.11.04-04.18.11:670][804]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete422)
+[2020.11.04-04.18.12:940][870]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete414)
+[2020.11.04-04.18.15:293][  3]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete423)
+[2020.11.04-04.18.15:691][ 23]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete424)
+[2020.11.04-04.18.16:117][ 45]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete425)
+[2020.11.04-04.18.16:513][ 65]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete426)
+[2020.11.04-04.18.16:908][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete427)
+[2020.11.04-04.18.17:937][143]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete428)
+[2020.11.04-04.18.29:025][801]Cmd: SELECT NONE
+[2020.11.04-04.18.32:452][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x821)
+[2020.11.04-04.18.33:586][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_500x820)
+[2020.11.04-04.18.48:769][952]Cmd: SELECT NONE
+[2020.11.04-04.19.00:799][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete427)
+[2020.11.04-04.19.01:428][658]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete428)
+[2020.11.04-04.19.02:621][723]Cmd: MODE GRID=0
+[2020.11.04-04.19.02:875][738]Cmd: DUPLICATE
+[2020.11.04-04.19.02:875][738]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.19.03:074][748]Cmd: MODE GRID=1
+[2020.11.04-04.24.13:129][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.11.04-04.24.13:828][415]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/MechaBane/Saved/Level1_Auto1ECA6385A4CB4C06A1D80A7B69E1A3136.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/MechaBane/Saved/Autosaves/Game/Maps/Level1_Auto1.umap'
+[2020.11.04-04.24.13:831][415]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.714
+[2020.11.04-04.24.13:831][415]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.714
+[2020.11.04-04.25.51:237][727]Cmd: MODE GRID=0
+[2020.11.04-04.25.51:406][737]Cmd: DUPLICATE
+[2020.11.04-04.25.51:406][737]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.25.51:605][747]Cmd: MODE GRID=1
+[2020.11.04-04.26.11:272][884]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete439)
+[2020.11.04-04.26.11:680][907]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete440)
+[2020.11.04-04.26.12:786][972]Cmd: MODE GRID=0
+[2020.11.04-04.26.12:955][982]Cmd: DUPLICATE
+[2020.11.04-04.26.12:955][982]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.26.13:174][993]Cmd: MODE GRID=1
+[2020.11.04-04.26.27:900][859]Cmd: MODE GRID=0
+[2020.11.04-04.26.28:070][869]Cmd: DUPLICATE
+[2020.11.04-04.26.28:070][869]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.26.28:305][881]Cmd: MODE GRID=1
+[2020.11.04-04.26.37:197][401]Cmd: MODE GRID=0
+[2020.11.04-04.26.37:365][411]Cmd: DUPLICATE
+[2020.11.04-04.26.37:365][411]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.26.37:568][421]Cmd: MODE GRID=1
+[2020.11.04-04.26.44:278][810]Cmd: MODE GRID=0
+[2020.11.04-04.26.44:398][817]Cmd: DUPLICATE
+[2020.11.04-04.26.44:398][817]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.26.44:565][825]Cmd: MODE GRID=1
+[2020.11.04-04.26.51:261][213]Cmd: MODE GRID=0
+[2020.11.04-04.26.51:382][220]Cmd: DUPLICATE
+[2020.11.04-04.26.51:382][220]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.26.51:550][228]Cmd: MODE GRID=1
+[2020.11.04-04.27.00:079][725]Cmd: MODE GRID=0
+[2020.11.04-04.27.00:265][736]Cmd: DUPLICATE
+[2020.11.04-04.27.00:265][736]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.27.00:381][741]Cmd: MODE GRID=1
+[2020.11.04-04.27.06:845][117]Cmd: MODE GRID=0
+[2020.11.04-04.27.07:015][127]Cmd: DUPLICATE
+[2020.11.04-04.27.07:015][127]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.27.07:201][136]Cmd: MODE GRID=1
+[2020.11.04-04.27.13:093][476]Cmd: MODE GRID=0
+[2020.11.04-04.27.13:210][483]Cmd: DUPLICATE
+[2020.11.04-04.27.13:210][483]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.27.13:343][489]Cmd: MODE GRID=1
+[2020.11.04-04.27.19:161][825]Cmd: MODE GRID=0
+[2020.11.04-04.27.19:298][833]Cmd: DUPLICATE
+[2020.11.04-04.27.19:298][833]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.27.19:449][840]Cmd: MODE GRID=1
+[2020.11.04-04.27.24:964][157]Cmd: MODE GRID=0
+[2020.11.04-04.27.25:117][166]Cmd: DUPLICATE
+[2020.11.04-04.27.25:118][166]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.27.25:319][176]Cmd: MODE GRID=1
+[2020.11.04-04.27.31:333][536]Cmd: MODE GRID=0
+[2020.11.04-04.27.31:486][545]Cmd: DUPLICATE
+[2020.11.04-04.27.31:486][545]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.27.31:637][552]Cmd: MODE GRID=1
+[2020.11.04-04.27.41:829][162]Cmd: MODE GRID=0
+[2020.11.04-04.27.41:963][170]Cmd: DUPLICATE
+[2020.11.04-04.27.41:963][170]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.27.42:131][178]Cmd: MODE GRID=1
+[2020.11.04-04.27.49:608][626]Cmd: MODE GRID=0
+[2020.11.04-04.27.49:728][633]Cmd: DUPLICATE
+[2020.11.04-04.27.49:728][633]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.27.49:912][642]Cmd: MODE GRID=1
+[2020.11.04-04.28.03:474][454]Cmd: TRANSACTION UNDO
+[2020.11.04-04.28.03:474][454]LogEditorTransaction: Undo Move Actors
+[2020.11.04-04.28.04:400][497]Cmd: MODE GRID=0
+[2020.11.04-04.28.04:504][503]Cmd: DUPLICATE
+[2020.11.04-04.28.04:504][503]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.28.04:655][510]Cmd: MODE GRID=1
+[2020.11.04-04.28.12:756][995]Cmd: MODE GRID=0
+[2020.11.04-04.28.12:891][  3]Cmd: DUPLICATE
+[2020.11.04-04.28.12:891][  3]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.28.13:041][ 10]Cmd: MODE GRID=1
+[2020.11.04-04.28.36:167][341]Cmd: TRANSACTION UNDO
+[2020.11.04-04.28.36:167][341]LogEditorTransaction: Undo Move Actors
+[2020.11.04-04.28.49:520][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete501)
+[2020.11.04-04.28.50:031][156]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_WallConcrete502)
+[2020.11.04-04.28.50:820][202]Cmd: MODE GRID=0
+[2020.11.04-04.28.50:989][212]Cmd: DUPLICATE
+[2020.11.04-04.28.50:989][212]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.28.51:171][221]Cmd: MODE GRID=1
+[2020.11.04-04.29.09:881][339]Cmd: MODE GRID=0
+[2020.11.04-04.29.10:084][351]Cmd: DUPLICATE
+[2020.11.04-04.29.10:084][351]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.29.10:300][362]Cmd: MODE GRID=1
+[2020.11.04-04.29.22:980][121]Cmd: MODE GRID=0
+[2020.11.04-04.29.23:150][131]Cmd: DUPLICATE
+[2020.11.04-04.29.23:150][131]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.29.23:299][138]Cmd: MODE GRID=1
+[2020.11.04-04.29.29:130][487]Cmd: MODE GRID=0
+[2020.11.04-04.29.29:247][494]Cmd: DUPLICATE
+[2020.11.04-04.29.29:247][494]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.29.29:366][499]Cmd: MODE GRID=1
+[2020.11.04-04.29.35:649][875]Cmd: MODE GRID=0
+[2020.11.04-04.29.35:819][885]Cmd: DUPLICATE
+[2020.11.04-04.29.35:819][885]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.29.36:001][894]Cmd: MODE GRID=1
+[2020.11.04-04.29.44:178][384]Cmd: MODE GRID=0
+[2020.11.04-04.29.44:329][393]Cmd: DUPLICATE
+[2020.11.04-04.29.44:329][393]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.29.44:513][402]Cmd: MODE GRID=1
+[2020.11.04-04.29.55:046][ 31]Cmd: MODE GRID=0
+[2020.11.04-04.29.55:198][ 40]Cmd: DUPLICATE
+[2020.11.04-04.29.55:198][ 40]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.29.55:380][ 49]Cmd: MODE GRID=1
+[2020.11.04-04.30.02:973][504]Cmd: MODE GRID=0
+[2020.11.04-04.30.03:177][516]Cmd: DUPLICATE
+[2020.11.04-04.30.03:177][516]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.30.03:376][526]Cmd: MODE GRID=1
+[2020.11.04-04.30.13:662][142]Cmd: MODE GRID=0
+[2020.11.04-04.30.13:815][151]Cmd: DUPLICATE
+[2020.11.04-04.30.13:815][151]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.30.13:998][160]Cmd: MODE GRID=1
+[2020.11.04-04.30.24:724][803]Cmd: MODE GRID=0
+[2020.11.04-04.30.24:893][813]Cmd: DUPLICATE
+[2020.11.04-04.30.24:893][813]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.30.25:143][826]Cmd: MODE GRID=1
+[2020.11.04-04.30.32:206][249]Cmd: MODE GRID=0
+[2020.11.04-04.30.32:375][259]Cmd: DUPLICATE
+[2020.11.04-04.30.32:375][259]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.30.32:576][269]Cmd: MODE GRID=1
+[2020.11.04-04.30.47:000][133]Cmd: TRANSACTION UNDO
+[2020.11.04-04.30.47:000][133]LogEditorTransaction: Undo Move Actors
+[2020.11.04-04.30.48:166][190]Cmd: MODE GRID=0
+[2020.11.04-04.30.48:336][200]Cmd: DUPLICATE
+[2020.11.04-04.30.48:336][200]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.30.48:586][213]Cmd: MODE GRID=1
+[2020.11.04-04.30.57:911][770]Cmd: MODE GRID=0
+[2020.11.04-04.30.58:047][778]Cmd: DUPLICATE
+[2020.11.04-04.30.58:047][778]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.30.58:197][785]Cmd: MODE GRID=1
+[2020.11.04-04.31.07:448][339]Cmd: SELECT NONE
+[2020.11.04-04.31.09:249][447]Cmd: TRANSACTION UNDO
+[2020.11.04-04.31.09:249][447]LogEditorTransaction: Undo Select None
+[2020.11.04-04.31.16:097][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WallConcrete527)
+[2020.11.04-04.31.16:310][854]Cmd: SELECT NONE
+[2020.11.04-04.31.34:245][834]Cmd: MODE GRID=0
+[2020.11.04-04.31.34:770][858]Cmd: DUPLICATE
+[2020.11.04-04.31.34:770][858]Cmd: ACTOR DUPLICATE
+[2020.11.04-04.31.35:110][864]Cmd: MODE GRID=1
+[2020.11.04-04.31.46:597][461]LogSlate: Took 0.000893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.04-04.33.00:555][623]Cmd: SELECT NONE
+[2020.11.04-04.34.14:196][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.11.04-04.34.14:937][905]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/MechaBane/Saved/Level1_Auto2240FC1874F749BCBE7B80DA95434152F.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/MechaBane/Saved/Autosaves/Game/Maps/Level1_Auto2.umap'
+[2020.11.04-04.34.14:940][905]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.768
+[2020.11.04-04.34.14:940][905]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.768
+[2020.11.04-04.34.41:135][685]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.11.04-04.34.51:297][236]Cmd: SELECT NONE
+[2020.11.04-04.34.53:465][359]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.11.04-04.34.59:269][677]Cmd: SELECT NONE
+[2020.11.04-04.35.15:318][596]MapCheck: New page: Map Check
+[2020.11.04-04.35.15:373][596]Cmd: MAP REBUILD ALLVISIBLE
+[2020.11.04-04.35.15:385][596]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.11.04-04.35.15:868][596]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=false
+[2020.11.04-04.35.16:123][596]LightingResults: New page: Lighting Build - Nov 3, 2020, 4:35:16 PM
+[2020.11.04-04.35.16:188][596]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.04-04.35.16:275][596]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.04-04.35.16:303][596]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.04-04.35.16:831][596]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.04-04.35.16:831][596]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2400
+[2020.11.04-04.35.19:723][596]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.04-04.35.19:723][596]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.04-04.35.19:723][596]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.04-04.35.19:723][596]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.04-04.35.19:723][596]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.04-04.35.20:133][596]LogEditorBuildUtils: Build time 0:04
+[2020.11.04-04.35.20:211][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.11.04-04.37.17:889][981]Job is a success!
+[2020.11.04-04.37.18:612][982]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.189s
+[2020.11.04-04.37.18:612][982]LogVolumetricLightmapImport:      Indirection Texture 48x48x16 = 0.1Mb
+[2020.11.04-04.37.18:612][982]LogVolumetricLightmapImport:      BrickData (all levels) 7.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.11.04-04.37.18:612][982]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.04-04.37.18:612][982]LogVolumetricLightmapImport:          0: 0.6% covering 100.0% of volume
+[2020.11.04-04.37.18:612][982]LogVolumetricLightmapImport:          1: 4.8% covering 11.8% of volume
+[2020.11.04-04.37.18:612][982]LogVolumetricLightmapImport:          2: 94.5% covering 3.6% of volume
+[2020.11.04-04.37.18:612][982]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.04-04.37.18:612][982]LogVolumetricLightmapImport:          Level1 			 1403 bricks 	 100.0% (Persistent Level)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:663][982]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_24 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_26 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_27 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_28 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_29 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_30 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: SkyOcclusion0_31 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:664][982]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:665][982]LogTexture: Display: Building textures: SkyOcclusion0_32 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:665][982]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:665][982]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:665][982]LogTexture: Display: Building textures: SkyOcclusion0_33 (AutoDXT, 1024X512)
+[2020.11.04-04.37.26:665][982]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 1024X1024)
+[2020.11.04-04.37.26:665][982]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 1024X1024)
+[2020.11.04-04.37.26:863][982]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 512X512)
+[2020.11.04-04.37.27:065][982]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X1024)
+[2020.11.04-04.37.27:065][982]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2020.11.04-04.37.27:065][982]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2020.11.04-04.37.27:065][982]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2020.11.04-04.37.27:065][982]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2020.11.04-04.37.27:065][982]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2020.11.04-04.37.27:065][982]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2020.11.04-04.37.27:065][982]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2020.11.04-04.37.27:065][982]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2020.11.04-04.37.27:065][982]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X256)
+[2020.11.04-04.37.27:322][982]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2020.11.04-04.37.27:322][982]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2020.11.04-04.37.27:322][982]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2020.11.04-04.37.27:322][982]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2020.11.04-04.37.27:322][982]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.11.04-04.37.27:322][982]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X1024)
+[2020.11.04-04.37.27:322][982]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 1024X1024)
+[2020.11.04-04.37.27:322][982]Lightmass on LAPTOP-304JBCSU: 2:06 min total, 160 ms importing, 415 ms setup, 9.53 sec photons, 1:55 min processing, 0 ms extra exporting [4318/4318 mappings]. Threads: 28:57 min total, 23:50 min processing.
+[2020.11.04-04.37.27:330][982]LogStaticLightingSystem: Level1_BuiltData storing lightmap data for 4182 meshes in 98 LightmapResourceClusters (42.7 Meshes per cluster).
+[2020.11.04-04.37.27:407][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.11.04-04.37.27:576][982]LogStaticLightingSystem: Illumination: 2:11 min (5.94 sec encoding lightmaps, 572 ms encoding shadowmaps)
+[2020.11.04-04.37.27:576][982]LogStaticLightingSystem: Lightmap texture memory:  96.0 MB (85.3 MB streaming, 10.7 MB non-streaming), 66 textures
+[2020.11.04-04.37.27:576][982]LogStaticLightingSystem: Shadowmap texture memory: 22.0 MB (20.3 MB streaming, 1.7 MB non-streaming), 18 textures
+[2020.11.04-04.37.32:839][982]DumpUnbuiltLightIteractions
+[2020.11.04-04.37.32:839][982]Lights with unbuilt interactions: 0
+[2020.11.04-04.37.32:839][982]
+[2020.11.04-04.37.32:839][982]Primitives with unbuilt interactions: 0
+[2020.11.04-04.37.33:079][983]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.11.04-04.37.33:079][983]MapCheck: New page: Level1 - Nov 3, 2020, 4:37:33 PM
+[2020.11.04-04.37.33:096][983]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 16.631ms to complete.
