@@ -2099,3 +2099,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.10-22.50.04:461][109]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.10-22.50.04:461][109]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
 [2020.12.10-22.50.04:461][109]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.10-22.52.25:267][415]Cmd: ACTOR SELECT ALL DESCENDANTS
