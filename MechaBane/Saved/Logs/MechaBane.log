@@ -27464,3 +27464,11 @@ Make sure 'Shooter_GM_C' has been compiled for  Get Max Range AI
 [2020.12.14-00.33.43:232][610]LogFileHelpers: Saving map 'Level1' took 1.286
 [2020.12.14-00.33.43:260][610]AssetCheck: New page: Asset Save: Level1
 [2020.12.14-00.33.43:260][610]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2020.12.14-00.34.54:189][419]BlueprintLog: New page: Compile Level1
+[2020.12.14-00.34.54:383][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.12.14-00.34.54:733][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/MechaBane/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.14-00.34.54:770][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.12.14-00.34.55:984][433]LogSavePackage: Moving '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/MechaBane/Saved/Level11922374348919AB5D1BB449DDB217451.tmp' to '../../../../../../Users/seanp/Documents/GitHub/MechaBane/MechaBane/MechaBane/Content/Maps/Level1.umap'
+[2020.12.14-00.34.56:016][433]LogFileHelpers: Saving map 'Level1' took 1.285
+[2020.12.14-00.34.56:053][433]AssetCheck: New page: Asset Save: Level1
+[2020.12.14-00.34.56:053][433]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
